@@ -15,5 +15,5 @@ var mois = [
   ];
   
   // Affichage du tableau dans la console
-  console.log(mois);
+  console.table(mois);
   
